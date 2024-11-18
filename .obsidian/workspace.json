@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "a5eac72168ad8546",
+    "type": "split",
+    "children": [
+      {
+        "id": "51251223921a3557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f42c271c1de58be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8a77762188bae05",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea5c37ca348801b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313ecfd59c2387d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "532149e0628c8237",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d5cc920aaef73a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 670.5
+  },
+  "right": {
+    "id": "cd35b0de02d2c6c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8608a8f30d1836be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc354772bae629b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "knowledge/engineering/documents/ELE773/cours_8/Cours08_Automne_2023.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cours08_Automne_2023"
+            }
+          },
+          {
+            "id": "efd4f4b038348f7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "knowledge/engineering/documents/ELE773/cours_8/Cours08_Automne_2023.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cours08_Automne_2023"
+            }
+          },
+          {
+            "id": "0c0f1b2e174292ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "798332b18d88dcf1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "knowledge/engineering/documents/ELE773/cours_8/Cours08_Automne_2023.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cours08_Automne_2023"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0f42c271c1de58be",
+  "lastOpenFiles": [
+    "Offers/Microsoft Azure Cloud Development Intern.md",
+    "Dashboard.md",
+    "Offers/Tesla Autopilot Software Engineer.md",
+    "Offers/Meta VR Software Engineer.md",
+    "Offers/Apple IOS Development Engineer.md",
+    "Offers/Amazon AWS Development Engine.md",
+    "Offers/all.md",
+    "_templates/job_offer_template.md",
+    "Internships/EXAIL Système de visualisation et d'exploitation des données USV.md",
+    "Companies/Meta Platforms.md",
+    "Companies/Amazon.md",
+    "Companies/Tesla.md",
+    "Companies/Microsoft Corporation.md",
+    "Companies/other.md",
+    "_templates/company_description_template.md",
+    "Companies/Apple Inc.md",
+    "Companies/Andrice.md",
+    "_templates/courses.md",
+    "_templates",
+    "_utilities/moc/Programmation.md",
+    "_utilities/moc/homepage.md",
+    "projects/internship_search/Dashboard.md",
+    "knowledge/sport/Stretching climbing.md",
+    "knowledge/engineering/ELE674.md",
+    "_utilities/prompts/prompt note obsidian.md",
+    "knowledge/engineering/RUST.md",
+    "projects/internship_search/entretien/comment se présenter dans un entretien.md",
+    "_utilities/moc",
+    "_utilities/procedures",
+    "_utilities/scripts/clean_git_history.bash",
+    "_utilities/scripts/delete_unused_media.py",
+    "_utilities/scripts",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
+    "projects/droneload diapo présentation/gifs/génération_images.gif",
+    "projects/ELE773/LABO3/media/Pasted image 20241030105343.png",
+    "media/image_9.png",
+    "media/image_9 1.png",
+    "media/image_8.png",
+    "media/image_8 1.png",
+    "media/image_7.png",
+    "media/image_7 1.png",
+    "media/image_6.png",
+    "media/Diagram.svg.xml",
+    "knowledge/engineering/documents/ELE543/cours_1.pdf",
+    "projects/internship_search/internships/media/viveris_book_stage.pdf",
+    "projects/internship_search/internships/media/alten_book_stage.pdf"
+  ]
+}

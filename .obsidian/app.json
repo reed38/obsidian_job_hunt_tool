@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "media",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "media",
+  "promptDelete": false
+}
