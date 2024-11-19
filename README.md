@@ -30,11 +30,11 @@ This Obsidian-based system solves these challenges by offering:
 ## Template System
 Templates use inline fields: [**tag_name**::value_type]
 Value types:
-- string: Text
-- int: Numbers
-- date: Dates
-- boolean: true/false
-- obsidian_link: Links to other notes
+- **string**: Text
+- **int**: Numbers
+- **date**: Dates
+- **boolean**: true/false
+- **obsidian_link**: Links to other notes
 
 ## Job Offer Template Contents
 - Basic Information: company, title, sector, location
