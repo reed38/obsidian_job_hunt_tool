@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "51251223921a3557",
+        "id": "544dcc6c07b8a5f5",
         "type": "tabs",
         "children": [
           {
-            "id": "0f42c271c1de58be",
+            "id": "ef7a216a65564464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "README"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5
+    "width": 358.5,
+    "collapsed": true
   },
   "right": {
     "id": "cd35b0de02d2c6c9",
@@ -158,29 +159,28 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0f42c271c1de58be",
+  "active": "ef7a216a65564464",
   "lastOpenFiles": [
-    "Offers/Microsoft Azure Cloud Development Intern.md",
+    "_templates/job_offer_template.md",
+    "README.md",
+    "_templates/company_description_template.md",
     "Dashboard.md",
+    "Untitled.md",
+    "Offers/Microsoft Azure Cloud Development Intern.md",
     "Offers/Tesla Autopilot Software Engineer.md",
     "Offers/Meta VR Software Engineer.md",
     "Offers/Apple IOS Development Engineer.md",
     "Offers/Amazon AWS Development Engine.md",
     "Offers/all.md",
-    "_templates/job_offer_template.md",
     "Internships/EXAIL Système de visualisation et d'exploitation des données USV.md",
     "Companies/Meta Platforms.md",
     "Companies/Amazon.md",
     "Companies/Tesla.md",
     "Companies/Microsoft Corporation.md",
     "Companies/other.md",
-    "_templates/company_description_template.md",
     "Companies/Apple Inc.md",
     "Companies/Andrice.md",
     "_templates/courses.md",
@@ -191,8 +191,6 @@
     "knowledge/sport/Stretching climbing.md",
     "knowledge/engineering/ELE674.md",
     "_utilities/prompts/prompt note obsidian.md",
-    "knowledge/engineering/RUST.md",
-    "projects/internship_search/entretien/comment se présenter dans un entretien.md",
     "_utilities/moc",
     "_utilities/procedures",
     "_utilities/scripts/clean_git_history.bash",
